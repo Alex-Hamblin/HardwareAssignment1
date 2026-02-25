@@ -4,6 +4,11 @@ Proof of work for alex hamblin:
 Paper prototype/physical prototype:\
 hand is in pictures and pictures were taken in my room.
 
+Proof of work for Darren Chung:
+<img width="482" height="233" alt="image" src="https://github.com/user-attachments/assets/375d525a-92b2-4fcc-a826-a59827b4d7c6" />
+I had the wowki project and the coded used in Unity is based on the controller challenge code which was cloned.
+
+
 All pushed made by alex hamblin due to technical difficulties on Darrens side
 
 We used parsec to allow darren to remote access into my computer to complete work
