@@ -4,7 +4,8 @@ All pushed made by alex hamblin due to technical difficulties on Darrens side
 
 We used parsec to allow darren to remote access into my computer to complete work
 
-We went the design process starting with the design thinking doccument, and draft of the heavy weight use case 
+We went the design process starting with the design thinking doccument, and draft of the heavy weight use case and built our first paper prototype.
+
 Design thinking doccument
 <img width="655" height="722" alt="image" src="https://github.com/user-attachments/assets/c4f106a7-7ffa-40e6-890e-c68bcc7bfc97" />
 <img width="653" height="804" alt="image" src="https://github.com/user-attachments/assets/30feb70a-4747-4f01-8729-a8448fdce049" />
@@ -12,10 +13,7 @@ Design thinking doccument
 
 
 Use case:
-
-
 <img width="663" height="585" alt="image" src="https://github.com/user-attachments/assets/9e9be394-7afc-4e16-9b6a-f5fc3fc1be1d" />
-and built our first paper prototype.
 <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/71bf7222-fc0e-4c05-8715-69500a1ef29d" />
 
 after this and various feedback from other groups and our GDW members, we interated on this and created a physical prototype of the circuit and new paper prototype with a 3d Model as well
