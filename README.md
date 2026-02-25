@@ -1,5 +1,9 @@
 Documentation progress: 
 
+Proof of work for alex hamblin: 
+Paper prototype/physical prototype:\
+hand is in pictures and pictures were taken in my room.
+
 All pushed made by alex hamblin due to technical difficulties on Darrens side
 
 We used parsec to allow darren to remote access into my computer to complete work
