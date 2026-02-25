@@ -7,12 +7,14 @@ We used parsec to allow darren to remote access into my computer to complete wor
 We went the design process starting with the design thinking doccument, and draft of the heavy weight use case 
 Design thinking doccument
 <img width="655" height="722" alt="image" src="https://github.com/user-attachments/assets/c4f106a7-7ffa-40e6-890e-c68bcc7bfc97" />
-<img width="655" height="722" alt="image" src="https://github.com/user-attachments/assets/ee0bd8d4-d0fe-40a8-aeed-67bf23cce8fb" />
-<img width="655" height="722" alt="image" src="https://github.com/user-attachments/assets/80568610-5092-4048-9a03-caeff5a9f174" />
+<img width="653" height="804" alt="image" src="https://github.com/user-attachments/assets/30feb70a-4747-4f01-8729-a8448fdce049" />
+<img width="577" height="554" alt="image" src="https://github.com/user-attachments/assets/f8793c33-51c9-42b6-bee7-742ea989cead" />
+
+
 Use case:
-<img width="655" height="722" alt="image" src="https://github.com/user-attachments/assets/29c6389f-7db0-472e-bf32-94d984be39d3" />
+<img width="663" height="585" alt="image" src="https://github.com/user-attachments/assets/9e9be394-7afc-4e16-9b6a-f5fc3fc1be1d" />
 and built our first paper prototype.
-<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/7e8c2fe0-0791-4f29-8593-8185fb1b5402" />
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/71bf7222-fc0e-4c05-8715-69500a1ef29d" />
 
 after this and various feedback from other groups and our GDW members, we interated on this and created a physical prototype of the circuit and new paper prototype with a 3d Model as well
 
