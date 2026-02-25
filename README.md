@@ -7,6 +7,8 @@ We used parsec to allow darren to remote access into my computer to complete wor
 We went the design process starting with the design thinking doccument, and draft of the heavy weight use case and built our first paper prototype.
 
 Design thinking doccument
+
+
 <img width="655" height="722" alt="image" src="https://github.com/user-attachments/assets/c4f106a7-7ffa-40e6-890e-c68bcc7bfc97" />
 <img width="653" height="804" alt="image" src="https://github.com/user-attachments/assets/30feb70a-4747-4f01-8729-a8448fdce049" />
 <img width="577" height="554" alt="image" src="https://github.com/user-attachments/assets/f8793c33-51c9-42b6-bee7-742ea989cead" />
