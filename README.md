@@ -12,6 +12,8 @@ Design thinking doccument
 
 
 Use case:
+
+
 <img width="663" height="585" alt="image" src="https://github.com/user-attachments/assets/9e9be394-7afc-4e16-9b6a-f5fc3fc1be1d" />
 and built our first paper prototype.
 <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/71bf7222-fc0e-4c05-8715-69500a1ef29d" />
